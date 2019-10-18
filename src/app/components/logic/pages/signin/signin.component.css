@@ -1,0 +1,10 @@
+/* Add mobile styles for the component here.  */
+.wrapper {
+  /* background: black; */
+  height: 100%;
+  width: 100%;
+}
+
+FlexboxLayout {
+  height: 100%;
+}

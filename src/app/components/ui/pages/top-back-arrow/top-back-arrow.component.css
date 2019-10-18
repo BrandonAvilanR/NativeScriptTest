@@ -1,0 +1,13 @@
+FlexboxLayout {
+  margin-bottom: -70;
+}
+
+.ios :host FlexboxLayout {
+  margin-bottom: 0;
+}
+
+.fa {
+  color: white;
+  margin-left: 10;
+  width: 30;
+}
